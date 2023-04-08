@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-28012019-057283";"";
+"REFERENCE";"AQ232X500";"";
+"TraceParts.PartTitle";"AQ2 ISO cylinder ISO6431,VDMA24562 AQ232X500";"";
+"TraceParts.InstanceId";"33-28012019-0572839T75CBMCI0X913BHFYCWRSKYX";"";
+"SUPPLIER";"CHANTO AIR HYDRAULICS CO., LTD.";"";
+"DESIGN";"AQ2 ISO cylinder ISO6431,VDMA24562 AQ232X500";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.1.7";"";
